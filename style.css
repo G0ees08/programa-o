@@ -8,6 +8,8 @@ body {
     margin: 10; /* Remove a margem padrão */
     text-align: center; /* Centraliza os textos */
     font-size: 70%;
+    background-image: url('csm_Basquete_o_esporte_importado_pelo_Mackenzie_2e81f9117b.jpg');
+  background-size: cover;
 }
 
 /* Estilo para a div que contém a imagem */
@@ -17,18 +19,28 @@ body {
 
 /* Estilo para as imagens */
 img {
-    max-width: 50%; /* A imagem nunca ultrapassará a largura da tela */
+    max-width: 30%; /* A imagem nunca ultrapassará a largura da tela */
     height: auto; /* Mantém a proporção da imagem */
 }
 
 /* Estilo para o título h1 */
 h1 {
-    color: #1c0552; /* Cor do texto */
+    color: #ffffff; /* Cor do texto */
     margin-top: 20px; /* Espaço superior */
 }
 
 /* Estilo para o subtítulo h2 */
 h2 {
-    color: #630a0a; /* Cor do texto */
+    color: #ffffff; /* Cor do texto */
+    margin-top: 10px; /* Espaço superior */
+}
+/* Estilo para o subtítulo h3 */
+h3 {
+    color: #ffffff; /* Cor do texto */
+    margin-top: 50px; /* Espaço superior */
+}
+/* Estilo para o subtítulo h4 */
+h4 {
+    color: #ffffff; /* Cor do texto */
     margin-top: 10px; /* Espaço superior */
 }
